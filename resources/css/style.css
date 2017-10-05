@@ -4,7 +4,24 @@ html {
   background-color: black;
 }
 
+#header {
+  font-size: 50px;
+  font-weight: normal;
+}
+
 h1 {
   color: white;
-  font-weight: normal;
+  font-weight: 300;
+  font-size: 42px;
+
+}
+
+h2 {
+  font-size: 21px;
+  color: gray;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
 }
